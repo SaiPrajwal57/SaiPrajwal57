@@ -1,13 +1,9 @@
-<div align="center">
-  <img src="./assets/hero-banner.svg" alt="Sai Prajwal R Gupta - AI/ML Engineer & Full Stack Developer" width="100%" />
-</div>
-
-<br />
+![Sai Prajwal R Gupta - AI/ML Engineer & Full Stack Developer](assets/hero-banner.png)
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-SaiPrajwal57-090d16?style=for-the-badge&logo=github&logoColor=2fd9f4&labelColor=0f131d&color=2fd9f4)](https://github.com/SaiPrajwal57)
-[![Identity](https://img.shields.io/badge/Identity-AI%2FML%20 Engineer-090d16?style=for-the-badge&logo=openai&logoColor=d0bcff&labelColor=0f131d&color=d0bcff)](https://github.com/SaiPrajwal57)
+[![Identity](https://img.shields.io/badge/Identity-AI%2FML%20Engineer-090d16?style=for-the-badge&logo=openai&logoColor=d0bcff&labelColor=0f131d&color=d0bcff)](https://github.com/SaiPrajwal57)
 [![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-090d16?style=for-the-badge&logo=googlemaps&logoColor=64f88a&labelColor=0f131d&color=64f88a)](https://github.com/SaiPrajwal57)
 [![Status](https://img.shields.io/badge/Status-Neural%20Node%20Active-090d16?style=for-the-badge&logo=lightning&logoColor=2fd9f4&labelColor=0f131d&color=2fd9f4)](https://github.com/SaiPrajwal57)
 
@@ -23,7 +19,7 @@ I'm an **AI/ML Engineer** and **Full-Stack Developer** focused on building pract
 
 <table>
   <tr>
-    <td width="50%" fill="#0f131d">
+    <td width="50%">
       <h3>🤖 AI / ML</h3>
       <p><b>Intelligence Layer</b></p>
       <code>RAG</code> • <code>LLMs</code> • <code>AI Agents</code> • <code>Evidence Validation</code>
@@ -113,109 +109,85 @@ I'm an **AI/ML Engineer** and **Full-Stack Developer** focused on building pract
 
 ## 🚀 03 // Featured Projects
 
-<table width="100%">
-  <!-- Project 1: GramaSakhi -->
-  <tr>
-    <td width="100%">
-      <div align="center">
-        <img src="./assets/gramasakhi-preview.svg" alt="GramaSakhi Preview" width="100%" />
-      </div>
-      <h3>🌾 1. GramaSakhi — Multilingual Governance Platform</h3>
-      <p>
-        AI-powered multilingual last-mile governance platform delivering verified civic information and scheme access to rural citizens. Built with evidence-validated retrieval to eliminate hallucinations.
-      </p>
-      <p><b>Architecture Flow:</b></p>
-      <pre>Voice / Query  ➔  Retrieval  ➔  Evidence Validation  ➔  LLM  ➔  Response</pre>
-      <p>
-        <code>React</code> • <code>FastAPI</code> • <code>RAG</code> • <code>FAISS</code> • <code>BM25</code> • <code>Ollama</code>
-      </p>
-      <p>
-        👉 <a href="https://github.com/SaiPrajwal57/Gramasakhi"><b>Inspect GramaSakhi Repository →</b></a>
-      </p>
-    </td>
-  </tr>
+### 🌾 1. GramaSakhi — Multilingual Governance Platform
 
-  <!-- Project 2: Sahyog -->
-  <tr>
-    <td width="100%">
-      <br />
-      <div align="center">
-        <img src="./assets/sahyog-preview.svg" alt="Sahyog Healthcare Platform Preview" width="100%" />
-      </div>
-      <h3>🏥 2. Sahyog — AI Rural Healthcare Platform</h3>
-      <p>
-        Comprehensive AI-powered rural healthcare platform. Features Electronic Health Records (EHR), patient timeline tracking, offline RAG-based medical guidance, vernacular multilingual support, voice interactions (STT/TTS), and hospital management workflows.
-      </p>
-      <p><b>Key Capabilities:</b></p>
-      <ul>
-        <li>EHR & Clinical Patient Timeline Management</li>
-        <li>RAG-Grounded Offline Medical Decision Guidance</li>
-        <li>Multilingual & Speech-to-Text / Text-to-Speech Interfaces</li>
-        <li>Resource-Constrained Hospital Management Operations</li>
-      </ul>
-      <p>
-        <code>React</code> • <code>FastAPI</code> • <code>PostgreSQL</code> • <code>SQLAlchemy</code> • <code>JWT</code> • <code>Ollama</code> • <code>LangChain</code> • <code>FAISS</code> • <code>RAG</code> • <code>STT/TTS</code>
-      </p>
-      <p>
-        👉 <a href="https://github.com/SaiPrajwal57/Sahyog"><b>Inspect Sahyog Repository →</b></a>
-        <br />
-        <sub style="color: #94a3b8;">*(Note: If private, update URL with your exact repository link)*</sub>
-      </p>
-    </td>
-  </tr>
+![GramaSakhi Preview](assets/gramasakhi-preview.png)
 
-  <!-- Project 3: Face Recognition Identification System -->
-  <tr>
-    <td width="100%">
-      <br />
-      <div align="center">
-        <img src="./assets/facerecog-preview.svg" alt="Face Recognition Identification System Preview" width="100%" />
-      </div>
-      <h3>👁️ 3. Face Recognition Identification System</h3>
-      <p>
-        Full-stack real-time face identification platform engineered with deep learning face embeddings, low-latency similarity search, and automated enrollment pipelines.
-      </p>
-      <p><b>Pipeline Architecture:</b></p>
-      <pre>Face Detection  ➔  Embedding Generation  ➔  Similarity Matching  ➔  Identification</pre>
-      <p>
-        <code>React</code> • <code>FastAPI</code> • <code>MongoDB</code> • <code>InsightFace</code> • <code>ArcFace</code> • <code>ONNX Runtime</code>
-      </p>
-      <p>
-        👉 <a href="https://github.com/SaiPrajwal57/Face-Recognition-Identification-System"><b>Inspect Face Recognition Repository →</b></a>
-      </p>
-    </td>
-  </tr>
+AI-powered multilingual last-mile governance platform delivering verified civic information and scheme access to rural citizens. Built with evidence-validated retrieval to eliminate hallucinations.
 
-  <!-- Project 4: F1 Race Performance Forecasting -->
-  <tr>
-    <td width="100%">
-      <br />
-      <div align="center">
-        <img src="./assets/f1-preview.svg" alt="F1 Race Performance Forecasting Preview" width="100%" />
-      </div>
-      <h3>🏎️ 4. F1 Race Performance Forecasting</h3>
-      <p>
-        Research and engineering implementation of an interpretable Temporal Fusion Transformer (TFT) model for multi-horizon lap timing, stint degradation, and race pace prediction using official telemetry.
-      </p>
-      <p><b>Deep Learning Workflow:</b></p>
-      <pre>Lap-level Formula 1 Data  ➔  Feature Engineering  ➔  Temporal Sequences  ➔  TFT  ➔  Multi-Horizon Forecasting</pre>
-      <p>
-        <code>Python</code> • <code>PyTorch</code> • <code>FastF1</code> • <code>Temporal Fusion Transformer</code> • <code>Deep Learning</code>
-      </p>
-      <p>
-        👉 <a href="https://github.com/SaiPrajwal57/f1-tft-race-performance-forecasting"><b>Inspect F1 Forecasting Repository →</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+**Architecture Flow:**
+```
+Voice / Query  ➔  Retrieval  ➔  Evidence Validation  ➔  LLM  ➔  Response
+```
+
+`React` • `FastAPI` • `RAG` • `FAISS` • `BM25` • `Ollama`
+
+👉 [**Inspect GramaSakhi Repository →**](https://github.com/SaiPrajwal57/Gramasakhi)
+
+<br />
+
+---
+
+### 🏥 2. Sahyog — AI Rural Healthcare Platform
+
+![Sahyog Healthcare Platform Preview](assets/sahyog-preview.png)
+
+Comprehensive AI-powered rural healthcare platform. Features Electronic Health Records (EHR), patient timeline tracking, offline RAG-based medical guidance, vernacular multilingual support, voice interactions (STT/TTS), and hospital management workflows.
+
+**Key Capabilities:**
+- EHR & Clinical Patient Timeline Management
+- RAG-Grounded Offline Medical Decision Guidance
+- Multilingual & Speech-to-Text / Text-to-Speech Interfaces
+- Resource-Constrained Hospital Management Operations
+
+`React` • `FastAPI` • `PostgreSQL` • `SQLAlchemy` • `JWT` • `Ollama` • `LangChain` • `FAISS` • `RAG` • `STT/TTS`
+
+👉 [**Inspect Sahyog Repository →**](https://github.com/SaiPrajwal57/Sahyog)  
+*(Note: If repository is private, update URL with your exact repository link)*
+
+<br />
+
+---
+
+### 👁️ 3. Face Recognition Identification System
+
+![Face Recognition Identification System Preview](assets/facerecog-preview.png)
+
+Full-stack real-time face identification platform engineered with deep learning face embeddings, low-latency similarity search, and automated enrollment pipelines.
+
+**Pipeline Architecture:**
+```
+Face Detection  ➔  Embedding Generation  ➔  Similarity Matching  ➔  Identification
+```
+
+`React` • `FastAPI` • `MongoDB` • `InsightFace` • `ArcFace` • `ONNX Runtime`
+
+👉 [**Inspect Face Recognition Repository →**](https://github.com/SaiPrajwal57/Face-Recognition-Identification-System)
+
+<br />
+
+---
+
+### 🏎️ 4. F1 Race Performance Forecasting
+
+![F1 Race Performance Forecasting Preview](assets/f1-preview.png)
+
+Research and engineering implementation of an interpretable Temporal Fusion Transformer (TFT) model for multi-horizon lap timing, stint degradation, and race pace prediction using official telemetry.
+
+**Deep Learning Workflow:**
+```
+Lap-level Formula 1 Data  ➔  Feature Engineering  ➔  Temporal Sequences  ➔  TFT  ➔  Multi-Horizon Forecasting
+```
+
+`Python` • `PyTorch` • `FastF1` • `Temporal Fusion Transformer` • `Deep Learning`
+
+👉 [**Inspect F1 Forecasting Repository →**](https://github.com/SaiPrajwal57/f1-tft-race-performance-forecasting)
 
 ---
 
 ## 🧬 04 // Engineering DNA
 
-<div align="center">
-  <img src="./assets/engineering-dna.svg" alt="Engineering DNA - Cognitive Pipeline Architecture" width="100%" />
-</div>
+![Engineering DNA - Cognitive Pipeline Architecture](assets/engineering-dna.png)
 
 <br />
 
