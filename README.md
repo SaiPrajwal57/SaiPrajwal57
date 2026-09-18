@@ -200,7 +200,7 @@ I am always open to discussing **AI/ML Engineering**, **RAG Systems**, **Agentic
 [![GitHub](https://img.shields.io/badge/GitHub-SaiPrajwal57-090d16?style=for-the-badge&logo=github&logoColor=2fd9f4&labelColor=0f131d&color=2fd9f4)](https://github.com/SaiPrajwal57)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai_Prajwal_R_Gupta-090d16?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0f131d&color=0A66C2)](https://www.linkedin.com/in/sai-prajwal-r-gupta-351a0b2a1/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-saiprajwal.dev-090d16?style=for-the-badge&logo=googlechrome&logoColor=64f88a&labelColor=0f131d&color=64f88a)](https://sai-prajwal-r-gupta.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-saiprajwal.gupta%40email.com-090d16?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0f131d&color=EA4335)](mailto:saiprajwal.gupta@email.com)
+[![Email](https://img.shields.io/badge/Email-saiprajwal.gupta%40email.com-090d16?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0f131d&color=EA4335)](mailto:prajwal.gupta2010@email.com)
 
 <br/>
 
