@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="100%" height="100%" style="background:#0b0f19; font-family:'Inter', sans-serif;">
+  <rect width="600" height="240" rx="10" fill="#0b0f19" stroke="#1e293b" stroke-width="1.5"/>
+  <rect x="0" y="0" width="600" height="4" fill="#ef4444"/>
+  <text x="24" y="36" fill="#ef4444" font-size="11" font-family="'JetBrains Mono', monospace" font-weight="700" letter-spacing="1">TIME-SERIES // DEEP LEARNING</text>
+  <text x="24" y="68" fill="#ffffff" font-size="22" font-weight="800">F1 Race Performance Forecasting</text>
+  <text x="24" y="96" fill="#94a3b8" font-size="13">Interpretable Temporal Fusion Transformer for Multi-Horizon Formula 1 Lap Timing</text>
+  
+  <!-- Flow Diagram -->
+  <g transform="translate(24, 120)">
+    <rect x="0" y="0" width="100" height="44" rx="6" fill="#1b2029" stroke="#ef4444" stroke-width="1"/>
+    <text x="50" y="26" fill="#ef4444" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="middle">F1 Telemetry</text>
+    
+    <text x="110" y="26" fill="#64748b" font-size="14">➔</text>
+    
+    <rect x="124" y="0" width="125" height="44" rx="6" fill="#1b2029" stroke="#38bdf8" stroke-width="1"/>
+    <text x="186.5" y="26" fill="#38bdf8" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="middle">Feature Eng.</text>
+    
+    <text x="259" y="26" fill="#64748b" font-size="14">➔</text>
+
+    <rect x="273" y="0" width="135" height="44" rx="6" fill="#1b2029" stroke="#c084fc" stroke-width="1"/>
+    <text x="340.5" y="26" fill="#c084fc" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="middle">Temp. Sequences</text>
+    
+    <text x="418" y="26" fill="#64748b" font-size="14">➔</text>
+
+    <rect x="432" y="0" width="138" height="44" rx="6" fill="#1b2029" stroke="#fbbf24" stroke-width="1"/>
+    <text x="501" y="26" fill="#fbbf24" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="middle">TFT Multi-Horizon</text>
+  </g>
+
+  <!-- Stack tags -->
+  <g transform="translate(24, 190)">
+    <rect x="0" y="0" width="60" height="24" rx="4" fill="#1e293b"/><text x="30" y="16" fill="#38bdf8" font-size="10" font-family="'JetBrains Mono', monospace" text-anchor="middle">Python</text>
+    <rect x="68" y="0" width="68" height="24" rx="4" fill="#1e293b"/><text x="102" y="16" fill="#ef4444" font-size="10" font-family="'JetBrains Mono', monospace" text-anchor="middle">PyTorch</text>
+    <rect x="144" y="0" width="62" height="24" rx="4" fill="#1e293b"/><text x="175" y="16" fill="#94a3b8" font-size="10" font-family="'JetBrains Mono', monospace" text-anchor="middle">FastF1</text>
+    <rect x="214" y="0" width="165" height="24" rx="4" fill="#1e293b"/><text x="296.5" y="16" fill="#fbbf24" font-size="10" font-family="'JetBrains Mono', monospace" text-anchor="middle">Temporal Fusion Transformer</text>
+  </g>
+</svg>

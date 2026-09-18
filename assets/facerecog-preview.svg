@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="100%" height="100%" style="background:#0b0f19; font-family:'Inter', sans-serif;">
+  <rect width="600" height="240" rx="10" fill="#0b0f19" stroke="#1e293b" stroke-width="1.5"/>
+  <rect x="0" y="0" width="600" height="4" fill="#c084fc"/>
+  <text x="24" y="36" fill="#c084fc" font-size="11" font-family="'JetBrains Mono', monospace" font-weight="700" letter-spacing="1">COMPUTER VISION // ML</text>
+  <text x="24" y="68" fill="#ffffff" font-size="20" font-weight="800">Face Recognition Identification System</text>
+  <text x="24" y="96" fill="#94a3b8" font-size="13">Real-time Face Identification with InsightFace, ArcFace &amp; ONNX Runtime</text>
+  
+  <!-- Flow Diagram -->
+  <g transform="translate(24, 120)">
+    <rect x="0" y="0" width="115" height="44" rx="6" fill="#1b2029" stroke="#c084fc" stroke-width="1"/>
+    <text x="57.5" y="26" fill="#c084fc" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="middle">Face Detection</text>
+    
+    <text x="127" y="26" fill="#64748b" font-size="14">➔</text>
+    
+    <rect x="142" y="0" width="135" height="44" rx="6" fill="#1b2029" stroke="#38bdf8" stroke-width="1"/>
+    <text x="209.5" y="26" fill="#38bdf8" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="middle">Embedding Gen.</text>
+    
+    <text x="288" y="26" fill="#64748b" font-size="14">➔</text>
+
+    <rect x="303" y="0" width="130" height="44" rx="6" fill="#1b2029" stroke="#4ade80" stroke-width="1"/>
+    <text x="368" y="26" fill="#4ade80" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="middle">Cosine Matching</text>
+    
+    <text x="444" y="26" fill="#64748b" font-size="14">➔</text>
+
+    <rect x="458" y="0" width="112" height="44" rx="6" fill="#1b2029" stroke="#fbbf24" stroke-width="1"/>
+    <text x="514" y="26" fill="#fbbf24" font-size="11" font-family="'JetBrains Mono', monospace" text-anchor="middle">Identification</text>
+  </g>
+
+  <!-- Stack tags -->
+  <g transform="translate(24, 190)">
+    <rect x="0" y="0" width="55" height="24" rx="4" fill="#1e293b"/><text x="27.5" y="16" fill="#94a3b8" font-size="10" font-family="'JetBrains Mono', monospace" text-anchor="middle">React</text>
+    <rect x="63" y="0" width="62" height="24" rx="4" fill="#1e293b"/><text x="94" y="16" fill="#94a3b8" font-size="10" font-family="'JetBrains Mono', monospace" text-anchor="middle">FastAPI</text>
+    <rect x="133" y="0" width="72" height="24" rx="4" fill="#1e293b"/><text x="169" y="16" fill="#94a3b8" font-size="10" font-family="'JetBrains Mono', monospace" text-anchor="middle">MongoDB</text>
+    <rect x="213" y="0" width="85" height="24" rx="4" fill="#1e293b"/><text x="255.5" y="16" fill="#c084fc" font-size="10" font-family="'JetBrains Mono', monospace" text-anchor="middle">InsightFace</text>
+    <rect x="306" y="0" width="65" height="24" rx="4" fill="#1e293b"/><text x="338.5" y="16" fill="#94a3b8" font-size="10" font-family="'JetBrains Mono', monospace" text-anchor="middle">ArcFace</text>
+    <rect x="379" y="0" width="95" height="24" rx="4" fill="#1e293b"/><text x="426.5" y="16" fill="#38bdf8" font-size="10" font-family="'JetBrains Mono', monospace" text-anchor="middle">ONNX Runtime</text>
+  </g>
+</svg>
