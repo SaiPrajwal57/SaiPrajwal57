@@ -1,13 +1,3 @@
-<div align="center">
-  <img src="https://lh3.googleusercontent.com/aida/AEtjO1Vdk-A-eJU8qQ4S0frNIXa2UUtJj9-oNtqjTUewDg40wvrBnX97OIEoCvKq78XtW5zgQ3r9nciqsFDf6wLYXxAfDytLPEpCOXiOfyJgQJZG3uR5VipckeSbGKZmG59rLJBHJDN2FKHrltIh_HO1VAyLVry0biQwCZrqW0Gjvg7QLPdPqmV22aBHKEfedBTUCrSylgd3aTh3ueKGGBUKO_hzHqggb-RudtVoMkO1gTS7noiPHPTOVo36Z3nX" width="100%" alt="Cyberpunk Developer Workstation — Neural Engine Active" />
-</div>
-
-<div align="center">
-
-```
-⚡  NEURAL ENGINE ACTIVE
-```
-
 # SAI PRAJWAL R GUPTA
 
 **`AI/ML Engineer • Full-Stack Architect`**
@@ -23,9 +13,9 @@
 [![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-090d16?style=for-the-badge&logo=googlemaps&logoColor=64f88a&labelColor=0f131d&color=64f88a)](https://github.com/SaiPrajwal57)
 [![Status](https://img.shields.io/badge/Status-ONLINE%20%E2%97%8F-0f131d?style=for-the-badge&labelColor=0f131d&color=64f88a)](https://github.com/SaiPrajwal57)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai_Prajwal_R_Gupta-0f131d?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0f131d&color=0A66C2)](https://linkedin.com/in/saiprajwal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-saiprajwal.dev-0f131d?style=for-the-badge&logo=googlechrome&logoColor=64f88a&labelColor=0f131d&color=64f88a)](https://saiprajwal.dev)
-[![Email](https://img.shields.io/badge/Email-Contact-0f131d?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0f131d&color=EA4335)](mailto:saiprajwal.gupta@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai_Prajwal_R_Gupta-0f131d?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0f131d&color=0A66C2)](https://www.linkedin.com/in/sai-prajwal-r-gupta-351a0b2a1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-saiprajwal.dev-0f131d?style=for-the-badge&logo=googlechrome&logoColor=64f88a&labelColor=0f131d&color=64f88a)](https://sai-prajwal-r-gupta.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-0f131d?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0f131d&color=EA4335)](mailto:prajwal.gupta2010@gmail.com)
 
 </div>
 
@@ -175,85 +165,6 @@ I'm an **AI/ML Engineer** and **Full-Stack Developer** focused on building pract
   </tr>
 </table>
 
----
-
-## `>` 04 // Engineering DNA
-
-<div align="center">
-
-```
-COGNITIVE PIPELINE ARCHITECTURE // DETERMINISTIC EXECUTION
-[ RETRIEVE → RANK → VALIDATE → REASON → GENERATE → EVALUATE ]
-```
-
-</div>
-
-<table width="100%">
-  <tr>
-    <td align="center" width="16%">
-      <img src="https://img.shields.io/badge/RETRIEVE-2fd9f4?style=for-the-badge&labelColor=0f131d&color=2fd9f4" /><br/>
-      <sub>Hybrid Vector/BM25</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://img.shields.io/badge/RANK-d0bcff?style=for-the-badge&labelColor=0f131d&color=d0bcff" /><br/>
-      <sub>Cross-Encoder</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://img.shields.io/badge/VALIDATE-64f88a?style=for-the-badge&labelColor=0f131d&color=64f88a" /><br/>
-      <sub>Evidence Filter</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://img.shields.io/badge/REASON-2fd9f4?style=for-the-badge&labelColor=0f131d&color=2fd9f4" /><br/>
-      <sub>Chain-of-Thought</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://img.shields.io/badge/GENERATE-d0bcff?style=for-the-badge&labelColor=0f131d&color=d0bcff" /><br/>
-      <sub>Quantized LLM</sub>
-    </td>
-    <td align="center" width="16%">
-      <img src="https://img.shields.io/badge/EVALUATE-64f88a?style=for-the-badge&labelColor=0f131d&color=64f88a" /><br/>
-      <sub>Ragas Metric Loop</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-> *"I don't just connect an LLM to an API. I build systems around it."*
-
----
-
-## `>` 05 // GitHub Activity & Telemetry
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Total%20Commits-1%2C842-2fd9f4?style=flat-square&labelColor=0f131d" /><br/><sub>+34% y/y</sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/Current%20Streak-47%20Days-64f88a?style=flat-square&labelColor=0f131d" /><br/><sub>Active Epoch</sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/Longest%20Streak-112%20Days-d0bcff?style=flat-square&labelColor=0f131d" /><br/><sub>Peak Intensity</sub></td>
-    <td align="center"><img src="https://img.shields.io/badge/Public%20Repos-38-859397?style=flat-square&labelColor=0f131d" /><br/><sub>14 Packages</sub></td>
-  </tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api?username=SaiPrajwal57&show_icons=true&theme=tokyonight&hide_border=false&bg_color=090d16&title_color=2fd9f4&icon_color=2fd9f4&text_color=dfe2f0&border_color=1e293b" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiPrajwal57&layout=compact&theme=tokyonight&hide_border=false&bg_color=090d16&title_color=2fd9f4&text_color=dfe2f0&border_color=1e293b" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiPrajwal57&theme=tokyonight&background=090d16&border=1e293b&stroke=2fd9f4&ring=2fd9f4&fire=d0bcff&currStreakLabel=2fd9f4" width="97%" />
-
-**Language Distribution** &nbsp; `[ LIVE REPOSITORY DATA ]`
-
-![Python](https://img.shields.io/badge/Python-58%25-2fd9f4?style=flat-square&labelColor=0f131d&color=2fd9f4)
-![JavaScript](https://img.shields.io/badge/JavaScript-22%25-d0bcff?style=flat-square&labelColor=0f131d&color=d0bcff)
-![TypeScript](https://img.shields.io/badge/TypeScript-12%25-64f88a?style=flat-square&labelColor=0f131d&color=64f88a)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-6%25-859397?style=flat-square&labelColor=0f131d&color=859397)
-
-<sub>`INDEXED CODEBASES` &nbsp; **142,890 LINES ANALYZED**</sub>
-
-</div>
-
----
-
 ## `>` 06 // Knowledge & Research Matrix
 
 <div align="center">
@@ -287,8 +198,8 @@ I am always open to discussing **AI/ML Engineering**, **RAG Systems**, **Agentic
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-SaiPrajwal57-090d16?style=for-the-badge&logo=github&logoColor=2fd9f4&labelColor=0f131d&color=2fd9f4)](https://github.com/SaiPrajwal57)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai_Prajwal_R_Gupta-090d16?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0f131d&color=0A66C2)](https://linkedin.com/in/saiprajwal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-saiprajwal.dev-090d16?style=for-the-badge&logo=googlechrome&logoColor=64f88a&labelColor=0f131d&color=64f88a)](https://saiprajwal.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai_Prajwal_R_Gupta-090d16?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0f131d&color=0A66C2)](https://www.linkedin.com/in/sai-prajwal-r-gupta-351a0b2a1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-saiprajwal.dev-090d16?style=for-the-badge&logo=googlechrome&logoColor=64f88a&labelColor=0f131d&color=64f88a)](https://sai-prajwal-r-gupta.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-saiprajwal.gupta%40email.com-090d16?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0f131d&color=EA4335)](mailto:saiprajwal.gupta@email.com)
 
 <br/>
